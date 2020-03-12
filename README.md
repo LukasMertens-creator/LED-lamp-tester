@@ -40,7 +40,7 @@ Oled:
   SCL - D22                                                                                                                   
   SDA - D21                                                                                                                   
   
-![Schema](Led Tester.jpg)
+
 
 
 
