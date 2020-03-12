@@ -12,7 +12,7 @@ ESP 32:
   D21 - SDA                                                                                                         
  
 DMP280:                                                                                                                                         
-  Pinnen sensor - Waar aangesloten
+  Pinnen sensor - Waar aangesloten                                                                                                                   
   Gnd - Gnd                                                                                                                                
   Vcc - Vcc                                                                                                                        
   SCL - D22                                                                                                                                        
