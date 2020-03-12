@@ -7,33 +7,33 @@ Gebruikte pinnen:
 ESP 32:                                                                                                                 
   pinnen - "Waarvoor gebruikt"                                                                                                                                             
   3V3 - Voeding                                                                                                                           
-  Gnd - Ground
+  Gnd - Ground                                                                                                          
   D22 - SCL                                                                                                                                
   D21 - SDA                                                                                                         
  
-DMP280:
+DMP280:                                                                                                                                         
   Pinnen sensor - Waar aangesloten
-  Gnd - Gnd
-  Vcc - Vcc
-  SCL - D22
-  SDA - D21
-  CSB - 3V3
-  SDD - 3V3
-  
-BH1750:
-  Pinnen sensor - Waar aangesloten
-  Vcc - 3V3
-  Gnd - Gnd
-  SCL - D22
-  SDA - D22
-  Adr - /
-  
-Oled:
-  Pinnen sensor - Waar aangesloten
-  Gnd- Gnd
-  Vcc - 3v3
-  SCL - D22
-  SDA - D21
+  Gnd - Gnd                                                                                                                                
+  Vcc - Vcc                                                                                                                        
+  SCL - D22                                                                                                                                        
+  SDA - D21                                                                                                                        
+  CSB - 3V3                                                                                                                   
+  SDD - 3V3                                                                                                                   
+                                                                                                                     
+BH1750:                                                                                                                   
+  Pinnen sensor - Waar aangesloten                                                                                                                   
+  Vcc - 3V3                                                                                                                   
+  Gnd - Gnd                                                                                                                   
+  SCL - D22                                                                                                                   
+  SDA - D22                                                                                                                   
+  Adr - /                                                                                                                   
+                                                                                                                     
+Oled:                                                                                                                   
+  Pinnen sensor - Waar aangesloten                                                                                                                   
+  Gnd- Gnd                                                                                                                   
+  Vcc - 3v3                                                                                                                   
+  SCL - D22                                                                                                                   
+  SDA - D21                                                                                                                   
   
  
 
