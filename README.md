@@ -4,12 +4,12 @@ Realiseer een schakeling die de lichtopbrengst en de warmte van een LED lamp kan
 
 Gebruikte pinnen:
 
-ESP 32:
+ESP 32:                                                                                                                 
   pinnen - "Waarvoor gebruikt"                                                                                                                                             
-  3V3 - Voeding
+  3V3 - Voeding                                                                                                                           
   Gnd - Ground
-  D22 - SCL
-  D21 - SDA
+  D22 - SCL                                                                                                                                
+  D21 - SDA                                                                                                         
  
 DMP280:
   Pinnen sensor - Waar aangesloten
