@@ -5,7 +5,7 @@ Realiseer een schakeling die de lichtopbrengst en de warmte van een LED lamp kan
 Gebruikte pinnen:
 
 ESP 32:
-  pinnen - "Waarvoor gebruikt"
+  pinnen - "Waarvoor gebruikt"                                                                                                                                             
   3V3 - Voeding
   Gnd - Ground
   D22 - SCL
